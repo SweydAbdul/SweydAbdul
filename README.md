@@ -1,7 +1,6 @@
 ### Heyy! Eu sou o Sweyd Abdul Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-- 🔭 
 - 🌱 Estou actualmente estudando: Python, Html5, CSS e JavaScript.
 - 👯 Estou procurando colaborar: em Python.
 - 🤔 Estou procurando ajunda: em si tornar um backend-develooer.
@@ -9,7 +8,7 @@
 - 💻 Facto interessante: Amo linux.
 - 📫 Como me alcançar: (+258)847574496.
 - 📜 Certificado como técnico profissional de informatica.
-  
+- 🔭 Foco: tornar-se um programador bom de alta qualidade. 
 
 ## 
 ### Visão geral rápida
