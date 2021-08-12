@@ -1,7 +1,7 @@
 ### Hey! Eu sou o Sweyd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-- 🌱 Estou actualmente estudando: Python, Html5, CSS e JavaScript.
+- 🌱 Estou actualmente estudando: Python, HTML5, CSS3 e JavaScript.
 - 👯 Estou procurando colaborar: em Python.
 - 🤔 Estou procurando ajunda: em si tornar um backend-develooer.
 - 💬 Pergunte-me sobre: linguagens de programação, computação, informatica e ciência.
