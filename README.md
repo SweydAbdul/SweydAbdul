@@ -26,6 +26,11 @@
   <img align="center" alt="Sweyd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sweyd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sweyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Sweyd-Github " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+ <img align="center" alt="Sweyd-Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg">
+ <img align="center" alt="Sweyd-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img align="center" alt="Sweyd-Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+ <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
  
  ##
