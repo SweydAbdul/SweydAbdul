@@ -30,6 +30,7 @@
  <img align="center" alt="Sweyd-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  <img align="center" alt="Sweyd-Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
  <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 </div>
  
  ##
@@ -38,7 +39,7 @@
   <a align="center" href = "https://www.twitter.com/sweydabdul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> <img src="https://img.shields.io/twitter/follow/sweydabdul?style=social" target="_blank">
   <a align="center" href = "mailto:abdulsweyd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a align="center" href = "https://t.me/Sweyd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-   <a align="center" href = "https://instagram.com/sweydabdul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a align="center" href = "https://instagram.com/sweydmanaf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
 ##
