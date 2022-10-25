@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 - 🌱 **Estou actualmente estudando**: Python.
-- 👯 **Estou procurando colaborar**: em Pytho com bibliotecas como Tkinter, Selenium.
+- 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Facto interessante**: comecei a programar aos meus 13 anos.
