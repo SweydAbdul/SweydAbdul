@@ -12,11 +12,32 @@
 
 ## 
 ### Visão geral rápida
-<div>
-  <a href="https://github.com/sweydmanaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sweydmanaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweydmanaf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<p align="center">
+  <a href="https://github.com/SweydManaf">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=SweydManaf&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+    
+  <a href="https://github.com/SweydManaf">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=SweydManaf&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+  <a href="https://github.com/SweydManaf">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=SweydManaf&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+  </a>
+    <a href="https://github.com/SweydManaf">
+    <img align="center"
+         height="150em"
+         src="https://activity-graph.herokuapp.com/graph?username=SweydManaf&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+  </a>
+</p>
+
+
   
 ##
 ### Feramentas usadas
