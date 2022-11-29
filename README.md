@@ -1,14 +1,13 @@
-### Hey! Eu sou o Sweyd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey! Eu sou o Sweyd Manaf
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 - 🌱 **Estou actualmente estudando**: Python.
 - 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
-- 💻 **Facto interessante**: comecei a programar aos meus 13 anos.
-- 📫 **Como me contactar**: (+258) 847574496.
+- 💻 **Facto interessante**: comecei a programar aos meus 13 anos com a linguagem C.
+- 📫 **Como me contactar**: (+258)847574496.
 - 📜 Certificado como **Técnico profissional de informatica**.
-- 🔭 **Foco**: tornar-se um programador bom e de alta qualidade. 
 
 ## 
 ### Visão geral rápida
