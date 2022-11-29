@@ -5,7 +5,7 @@
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Facto interessante**: comecei a programar aos meus 13 anos com a linguagem C.
-- 📫 **Como me contactar**: (+258)847574496.
+- 📫 **Como me contactar**: (+258) 847574496.
 - 📜 Certificado como **Técnico profissional de informatica**.
 
 ## 
