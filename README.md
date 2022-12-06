@@ -1,6 +1,6 @@
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-- 🌱 **Estou actualmente estudando**: Python.
+- 🌱 **Estou actualmente estudando**: HTMLC, CSS e JavaScript.
 - 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
