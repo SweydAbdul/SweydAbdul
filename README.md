@@ -2,7 +2,7 @@
  
 - 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
 - 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium e MySQL.
-- 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
+- 🤔 **Estou procurando ajuda**: em si tornar um backend-developer voltado para IA.
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Facto interessante**: comecei a programar aos meus 13 anos com a linguagem C.
 - 📫 **Como me contactar**: (+258) 847574496.
