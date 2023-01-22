@@ -1,4 +1,7 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SweydManaf/21403a3e69ce7df73fb3bba9d5427227/raw/5903adb0fba558322d7cf3b6e3ea50fbba2d5f84/githubcard.svg"/>
+
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
  
 - 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
 - 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium e MySQL.
