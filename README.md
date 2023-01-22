@@ -5,15 +5,15 @@
 
 Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, JavaScript, HTML e CSS.
 - 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
-- **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
+- 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
 - 👯 **Estou procurando colaborar**: em projetos envolvendo automação com Python e em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer voltado para IA.
-- **Estou atualmente cursando os seguintes cursos:**
+- ✍️ **Estou atualmente cursando os seguintes cursos:**
   - HTML & CSS no [CursoemVideo](https://www.cursoemvideo.com/);
   - [CS50](https://cs50.harvard.edu/x/2023/) da Universidade de Harvard;
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
-- 💻 **Meu hobbies**: Programação, Livros, Ciência, Astronomia.
+- 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
 - 📫 **Como me contactar**: (+258) 847574496.
 - 📜 Certificado como **Técnico profissional de informatica**.
 
