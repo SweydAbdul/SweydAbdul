@@ -2,12 +2,18 @@
 
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
- 
+
+Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, JavaScript, HTML e CSS.
 - 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
-- 👯 **Estou procurando colaborar**: em Python com bibliotecas como Tkinter, Selenium e MySQL.
+- **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
+- 👯 **Estou procurando colaborar**: em projetos envolvendo automação com Python e em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer voltado para IA.
+- **Estou atualmente cursando os seguintes cursos:**
+  - HTML & CSS no [CursoemVideo](https://www.cursoemvideo.com/);
+  - [CS50](https://cs50.harvard.edu/x/2023/) da Universidade de Harvard;
+
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
-- 💻 **Facto interessante**: comecei a programar aos meus 13 anos com a linguagem C.
+- 💻 **Meu hobbies**: Programação, Livros, Ciência, Astronomia.
 - 📫 **Como me contactar**: (+258) 847574496.
 - 📜 Certificado como **Técnico profissional de informatica**.
 
