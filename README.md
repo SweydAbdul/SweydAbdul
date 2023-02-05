@@ -10,7 +10,8 @@ Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, J
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer voltado para IA.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
   - HTML & CSS no [CursoemVideo](https://www.cursoemvideo.com/);
-  - [CS50](https://cs50.harvard.edu/x/2023/) da Universidade de Harvard;
+  - Discovery na [Rocketseat](https://app.rocketseat.com.br/discover);
+  - [CS50x](https://cs50.harvard.edu/x/2023/) da Universidade de Harvard;
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
