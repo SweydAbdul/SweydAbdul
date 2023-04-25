@@ -9,9 +9,8 @@ Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, J
 - 👯 **Estou procurando colaborar**: em projetos envolvendo automação com Python e em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer voltado para IA.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
-  - HTML & CSS no [CursoemVideo](https://www.cursoemvideo.com/);
   - Discover na [Rocketseat](https://app.rocketseat.com.br/discover);
-  - [CS50x](https://cs50.harvard.edu/x/2023/) da Universidade de Harvard;
+  - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) da FreeCodeCamp;
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
