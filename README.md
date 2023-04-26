@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SweydManaf/21403a3e69ce7df73fb3bba9d5427227/raw/5903adb0fba558322d7cf3b6e3ea50fbba2d5f84/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SweydManaf/21403a3e69ce7df73fb3bba9d5427227/raw/5903adb0fba558322d7cf3b6e3ea50fbba2d5f84/githubcard.svg"/> -->
 
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
@@ -11,6 +11,7 @@ Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, J
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
   - Discover na [Rocketseat](https://app.rocketseat.com.br/discover);
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) da FreeCodeCamp;
+  - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) da FreeCodeCamp;
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
