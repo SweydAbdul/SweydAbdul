@@ -9,7 +9,7 @@ Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, J
 - 👯 **Estou procurando colaborar**: em projetos envolvendo automação com Python e em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
-  - [JFront End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) na FreeCodeCamp;
+  - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) na FreeCodeCamp;
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
