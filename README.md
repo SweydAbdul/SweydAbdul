@@ -43,9 +43,7 @@ Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Pyt
   <img align="center" alt="Sweyd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sweyd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sweyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Sweyd-Github " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
  <img align="center" alt="Sweyd-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
- <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="Sweyd-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 <img align="center" alt="Sweyd-Mysql "  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
