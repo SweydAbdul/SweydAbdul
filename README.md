@@ -3,11 +3,11 @@
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
 
-Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, JavaScript, HTML e CSS.
+Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Python, Tkinter, MySQL, Selenium.
 - 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
 - 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
-- 👯 **Estou procurando colaborar**: em projetos envolvendo automação com Python e em projetos frontend.
-- 🤔 **Estou procurando ajuda**: em si tornar um backend-developer.
+- 👯 **Estou procurando colaborar**: em projetos frontend.
+- 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
   - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) na FreeCodeCamp;
 
@@ -44,9 +44,7 @@ Minha experiência inclui, mas não está limitada a, Python, MySQL, Selenium, J
   <img align="center" alt="Sweyd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sweyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Sweyd-Github " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
- <img align="center" alt="Sweyd-Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg">
  <img align="center" alt="Sweyd-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
- <img align="center" alt="Sweyd-Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
  <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="Sweyd-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 <img align="center" alt="Sweyd-Mysql "  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
