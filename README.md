@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
 
 Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Python, Tkinter, MySQL, Selenium.
-- 🌱 **Estou actualmente estudando**: HTML, CSS e JavaScript.
+- 🌱 **Estou actualmente estudando**: ReactJS
 - 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
 - 👯 **Estou procurando colaborar**: em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
-  - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) na FreeCodeCamp;
+  -
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
