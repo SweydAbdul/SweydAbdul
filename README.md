@@ -9,7 +9,7 @@ Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Pyt
 - 👯 **Estou procurando colaborar**: em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
-  -
+  - [Ignite da Rocketseat](https://www.rocketseat.com.br/ignite)
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
