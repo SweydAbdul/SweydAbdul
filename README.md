@@ -10,6 +10,8 @@ Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Pyt
 - 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
   - [Ignite da Rocketseat](https://www.rocketseat.com.br/ignite)
+  - [React Basics](https://www.coursera.org/learn/react-basics/)
+  - [Curso de Java para Iniciantes](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=24YLmOI9fFwOemGB)
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
