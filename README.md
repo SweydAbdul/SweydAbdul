@@ -4,14 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
 
 Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Python, Tkinter, MySQL, Selenium, ReactJS.
-- 🌱 **Estou actualmente estudando**: ReactJS, NextJS e Java;
+- 🌱 **Estou actualmente estudando**: ReactJS, NextJS, Java e Dart.
 - 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
 - 👯 **Estou procurando colaborar**: em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
 - ✍️ **Estou atualmente cursando os seguintes cursos:**
   - [Ignite da Rocketseat](https://www.rocketseat.com.br/ignite)
-  - [React Basics](https://www.coursera.org/learn/react-basics/)
-  - [Curso de Java para Iniciantes](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=24YLmOI9fFwOemGB)
+  - [Advanced React](https://www.coursera.org/learn/advancend-react/)
 
 - 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
 - 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
