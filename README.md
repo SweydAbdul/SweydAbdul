@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
 
 Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Python, Tkinter, ReactJS.
-- 🌱 **Estou actualmente estudando**: ReactJS, NextJS, Java e Node.
+- 🌱 **Estou actualmente estudando**: ReactJS, NextJS, Java e Flutter.
 - 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
 - 👯 **Estou procurando colaborar**: em projetos frontend.
 - 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
