@@ -3,19 +3,11 @@
 ### Hey! Eu sou o Sweyd Manaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweydmanaf&color=blue" alt="Profile views" /> </p>
 
-Minha experiência inclui, mas não está limitada a, HTML, CSS, JavaScript, Python, Tkinter, ReactJS.
-- 🌱 **Estou actualmente estudando**: ReactJS, NextJS, Java e Flutter.
-- 🥼 **Projeto pessoal**: divulgador ciêntifico no instagram em <a href='https://www.instagram.com/colheitacientifica/'>Colheita Científica;</a>
-- 👯 **Estou procurando colaborar**: em projetos frontend.
-- 🤔 **Estou procurando ajuda**: em si tornar um fullstack-developer.
-- ✍️ **Estou atualmente cursando os seguintes cursos:**
-  - [Ignite da Rocketseat](https://www.rocketseat.com.br/ignite)
-  - [Advanced React](https://www.coursera.org/learn/advanced-react/)
-
-- 💬 **Pergunte-me sobre**: linguagens de programação, computação, informática e ciência.
-- 💻 **Meus hobbies**: Programação, Livros, Ciência, Astronomia.
-- 📫 **Como me contactar**: (+258) 847574496.
-- 📜 Certificado como **Técnico profissional de informatica**.
+Desenvolvedor web, apaixonado por resolver problemas com ajuda da tecnologia.
+- 🚀 **Foco em React, NextJS**
+- 🌟 **Sempre em busca de novos desafios**
+- Quando não estou codando, divulgo ciência na @colheitacientifica.
+- _Tatakae_ 💻⚔️
 
 ## 
 ### Visão geral rápida
