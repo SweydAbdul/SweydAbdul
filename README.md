@@ -7,7 +7,6 @@ Desenvolvedor web, apaixonado por resolver problemas com ajuda da tecnologia.
 - 🚀 **Foco em React, NextJS**
 - 🌟 **Sempre em busca de novos desafios**
 - Quando não estou codando, divulgo ciência na @colheitacientifica.
-- _Tatakae_ 💻⚔️
 
 ## 
 ### Visão geral rápida
