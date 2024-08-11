@@ -47,7 +47,7 @@ Desenvolvedor web, apaixonado por resolver problemas com ajuda da tecnologia.
  
 
 <img align="center" alt="Mysql "  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50" />
-<img align="center" alt="dbeaver "  src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"  height="50" />
+
 </div>
  
  ##
